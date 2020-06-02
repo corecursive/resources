@@ -1,4 +1,4 @@
-# Resources
+# Learning Resources
 
 ### Compilers
  * [Crafting Intepreters](https://craftinginterpreters.com/)
