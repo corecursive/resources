@@ -11,7 +11,7 @@
 ## Hardware
 
 * [Nand To Tetris](https://www.nand2tetris.org/)
-* [Code - The hidden language of computer hardware](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+* [Code - The hidden language of computer hardware](https://www.goodreads.com/book/show/44882.Code)
 
 ## Operating Systems
 
