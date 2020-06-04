@@ -11,8 +11,8 @@
 ## Compilers
 
 * 🕸 [Crafting Intepreters](https://craftinginterpreters.com/) - [Bob Nystrom](http://journal.stuffwithstuff.com/)
-* 📕 [Writing An Interpreter In Go](https://interpreterbook.com) - [Thorston Ball](https://thorstenball.com/)
-* 📕 [Writing A Compiler In Go](https://compilerbook.com) - [Thorston Ball](https://thorstenball.com/)
+* 📕 [Writing An Interpreter In Go](https://interpreterbook.com) - [Thorsten Ball](https://thorstenball.com/)
+* 📕 [Writing A Compiler In Go](https://compilerbook.com) - [Thorsten Ball](https://thorstenball.com/)
 
 ## Languages
 
