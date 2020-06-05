@@ -16,10 +16,13 @@
 
 ## Languages
 
+* 📕 [The Little Typer](https://www.thelittletyper.com/) - [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/) & [David Thrane Christiansen](http://www.davidchristiansen.dk/)
+* 📕 [The Little Schemer](https://www.goodreads.com/book/show/548914.The_Little_Schemer) - [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)
+
 ## Hardware
 
 * 📚 [Nand To Tetris](https://www.nand2tetris.org/)
-* 📕 [Code - The hidden language of computer hardware](https://www.goodreads.com/book/show/44882.Code)
+* 📕 [Code - The hidden language of computer hardware](https://www.goodreads.com/book/show/44882.Code) - [Charles Petzold](https://www.charlespetzold.com/)
 
 ## Operating Systems
 
@@ -27,6 +30,7 @@
 * 📕 [Operating Systems in Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * 🕸 [IntermezzOS](https://intermezzos.github.io/)
 * 🕸 [Writing an OS in Rust](https://os.phil-opp.com/)
+* 📕 [The Design and Implementation of the FreeBSD Operating System](https://www.goodreads.com/book/show/20839560-the-design-and-implementation-of-the-freebsd-operating-system) - [Marshall Kirk McKusic](https://www.mckusick.com/), [George Neville-Neil](https://www.neville-neilconsulting.com/) & [Robert Watson](http://www.watson.org/~robert/)
 
 ## Origami
 
