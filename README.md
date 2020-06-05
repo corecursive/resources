@@ -16,6 +16,9 @@
 
 ## Languages
 
+* 📕 [The Little Typer](https://www.thelittletyper.com/) - [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/) & [David Thrane Christiansen](http://www.davidchristiansen.dk/)
+* 📕 [The Little Schemer](https://www.goodreads.com/book/show/548914.The_Little_Schemer) - [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)
+
 ## Hardware
 
 * 📚 [Nand To Tetris](https://www.nand2tetris.org/)
