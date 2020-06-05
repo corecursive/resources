@@ -22,7 +22,7 @@
 ## Hardware
 
 * 📚 [Nand To Tetris](https://www.nand2tetris.org/)
-* 📕 [Code - The hidden language of computer hardware](https://www.goodreads.com/book/show/44882.Code)
+* 📕 [Code - The hidden language of computer hardware](https://www.goodreads.com/book/show/44882.Code) - [Charles Petzold](https://www.charlespetzold.com/)
 
 ## Operating Systems
 
