@@ -30,6 +30,7 @@
 * 📕 [Operating Systems in Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * 🕸 [IntermezzOS](https://intermezzos.github.io/)
 * 🕸 [Writing an OS in Rust](https://os.phil-opp.com/)
+* 📕 [The Design and Implementation of the FreeBSD Operating System](https://www.goodreads.com/book/show/20839560-the-design-and-implementation-of-the-freebsd-operating-system) - [Marshall Kirk McKusic](https://www.mckusick.com/), [George Neville-Neil](https://www.neville-neilconsulting.com/) & [Robert Watson](http://www.watson.org/~robert/)
 
 ## Origami
 
