@@ -7,6 +7,7 @@
 | 📺 Video |
 | 📝 Paper |
 | 🕸 Website/Blog |
+| 🎙️ Podcast |
 
 ## Compilers
 
@@ -42,3 +43,6 @@
 
 * 📺 [Math terms explained by 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * 🕸 [Computational geometry basics for 3D rendering](https://www.scratchapixel.com/)
+
+## Music
+* 🎙️[Strong Songs](https://www.strongsongspodcast.com/) 
