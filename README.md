@@ -32,6 +32,9 @@
 * 🕸 [IntermezzOS](https://intermezzos.github.io/)
 * 🕸 [Writing an OS in Rust](https://os.phil-opp.com/)
 * 📕 [The Design and Implementation of the FreeBSD Operating System](https://www.goodreads.com/book/show/20839560-the-design-and-implementation-of-the-freebsd-operating-system) - [Marshall Kirk McKusic](https://www.mckusick.com/), [George Neville-Neil](https://www.neville-neilconsulting.com/) & [Robert Watson](http://www.watson.org/~robert/)
+* 📺 [Operation Systems - Bryan Will YouTube Playlist](https://www.youtube.com/watch?v=9GDX-IyZ_C8&list=PLIbUZ3URbL0Gqn0q2-MYJd-3nv6zw7GCQ)
+* 📺 [Unix System Calls - Bryan Will YouTube Playlist](https://www.youtube.com/watch?v=xHu7qI1gDPA&list=PL993D01B05C47C28D)
+* 📺 [Unix Terminal and Shells - Bryan Will YouTube Playlist](https://www.youtube.com/watch?v=07Q9oqNLXB4&list=PLFAC320731F539902)
 
 ## Origami
 
@@ -45,4 +48,9 @@
 * 🕸 [Computational geometry basics for 3D rendering](https://www.scratchapixel.com/)
 
 ## Music
-* 🎙️[Strong Songs](https://www.strongsongspodcast.com/) 
+
+* 🎙️ [Strong Songs](https://www.strongsongspodcast.com/)
+
+## Networking
+
+* 📺 [The Internet - Bryan Will YouTube Playlist](https://www.youtube.com/watch?v=DTQV7_HwF58&list=PL18AF3812A53E11C5)
