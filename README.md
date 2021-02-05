@@ -14,6 +14,9 @@
 * 🕸 [Crafting Intepreters](https://craftinginterpreters.com/) - [Bob Nystrom](http://journal.stuffwithstuff.com/)
 * 📕 [Writing An Interpreter In Go](https://interpreterbook.com) - [Thorsten Ball](https://thorstenball.com/)
 * 📕 [Writing A Compiler In Go](https://compilerbook.com) - [Thorsten Ball](https://thorstenball.com/)
+* 📕 [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) - [Jonathan Tang]()
+* 📕 [Write You A Scheme, Version 2.0](https://wespiser.com/writings/wyas/home.html) - [Adam Wespiser](https://wespiser.com/)
+* 📕 [Implementing a JIT Compiled Language with Haskell and LLVM](https://www.stephendiehl.com/llvm/) - [Stephen Diehl](https://www.stephendiehl.com/)
 
 ## Languages
 
@@ -59,6 +62,6 @@
 
 - ### Domain Driven Design
 
-    * 📕 [Domain Driven Design - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) (mainly the 2nd half) 
+    * 📕 [Domain Driven Design - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) (mainly the 2nd half)
     * 📕 [Domain Driven Design Distilled - Vaughn Vernon](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
     * 📕 [Domain Modeling Made Functional - Scott Wlaschin](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
