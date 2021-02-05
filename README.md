@@ -56,7 +56,9 @@
 * 📺 [The Internet - Bryan Will YouTube Playlist](https://www.youtube.com/watch?v=DTQV7_HwF58&list=PL18AF3812A53E11C5)
 
 ## Software Design
-  ### Domain Driven Design
-    * [Domain Driven Design - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) (mainly the 2nd half) 
-    * [Domain Driven Design Distilled - Vaughn Vernon](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
-    * [Domain Modeling Made Functional - Scott Wlaschin](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
+
+- ### Domain Driven Design
+
+    * 📕 [Domain Driven Design - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) (mainly the 2nd half) 
+    * 📕 [Domain Driven Design Distilled - Vaughn Vernon](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
+    * 📕 [Domain Modeling Made Functional - Scott Wlaschin](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
