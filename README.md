@@ -15,6 +15,10 @@
 * 📕 [Writing An Interpreter In Go](https://interpreterbook.com) - [Thorsten Ball](https://thorstenball.com/)
 * 📕 [Writing A Compiler In Go](https://compilerbook.com) - [Thorsten Ball](https://thorstenball.com/)
 
+## Documentation
+
+* 📺 [What nobody tells you about documentation - Daniele Procida](https://www.youtube.com/watch?v=t4vKPhjcMZg)
+
 ## Languages
 
 * 📕 [The Little Typer](https://www.thelittletyper.com/) - [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/) & [David Thrane Christiansen](http://www.davidchristiansen.dk/)
